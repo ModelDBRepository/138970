@@ -1,7 +1,7 @@
 Copyright 2011 by ISRC, University of Ulster
 Revision: 0.1
 Date: 01/05/2011
-E-Mail: bs.bhattacharya@ulster.ac.uk,
+E-Mail: basab.sen.b@gmail.com,
 	  dh.coyle@ulster.ac.uk,
 	  lp.maguire@ulster.ac.uk
 
@@ -23,5 +23,5 @@ window.
 Note: The run-time (in seconds) may be altered by entering an
 appropriate entry in the 'field' next to the 'play' button.
 
-Please feel free to contact (email: bs.bhattacharya@ulster.ac.uk,
+Please feel free to contact (email: basab.sen.b@gmail.com,
 dh.coyle@ulster.ac.uk, lp.maguire@ulster.ac.uk) with any query.
